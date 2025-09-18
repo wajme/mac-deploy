@@ -3,6 +3,15 @@ configure_dotfiles: true
 configure_terminal: true
 configure_osx: true
 
+mas_installed_apps:
+  - { id: , name: "Ampehtamine" }
+  - { id: , name: "BitWarden" }
+  - { id: , name: "Firefox" }
+  - { id: 1538878817, name: "UTM" }
+  - { id: 497799835, name: "Xcode" }
+  - { id: 409222199, name: "Cyberduck" } 
+#DisplayLink?, CrystalFecth, Hogwasher, Libation, LibreOffice, Ledger Live, VLC, NextDNS, WireShark, WireGuard, XSearch,
+
 # Set to 'true' to configure the Dock via dockutil.
 configure_dock: false
 dockitems_remove: []
