@@ -1,5 +1,7 @@
-# mac-deploy-playbook
-These are the standard items I install on MacBook
+# MacBook Deployment Playbook
+This script will setup will install the standard applicatons I use through Mac App Store [MAS] or via HomeBrew [brew.sh] to provide an automated workflow setup for the easy installation of the software I prefer on a new macbook. This requires initial computer setup and sign into the MAS and iCloud with Apple Account.
+
+A list of the software is identified below. 
 
 # Deploy Code
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/wajme/mac-deploy/install.sh)"
