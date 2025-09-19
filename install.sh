@@ -12,9 +12,9 @@ else
     echo "Homebrew is already installed."
 fi
 
-# --- Step 2: Install Ansible via Homebrew ---
-echo "Installing Ansible..."
-brew install ansible
+# --- Step 2: Install Ansible and mas via Homebrew ---
+echo "Installing Ansible and the 'mas' tool..."
+brew install ansible mas
 
 # --- Step 3: Install the required Ansible collections ---
 echo "Installing Ansible community.general collection..."
