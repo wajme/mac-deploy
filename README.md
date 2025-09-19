@@ -24,7 +24,9 @@ A list of the software is identified below.
   
 # Mac Apps [Brew]
 - Firefox, https://www.firefox.com/en-US/
-- Libation, https://getlibation.com
 - VLC, https://www.videolan.org/vlc/
 - WireShark, https://www.wireshark.org
 - Sublime Text, https://www.sublimetext.com
+
+# Mac Apps [Manual Install]
+- Libation, https://getlibation.com
