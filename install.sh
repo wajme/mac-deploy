@@ -37,6 +37,7 @@ cat > macos_apps.yml <<EOF
         - { name: "Ampehtamine", mas_id: 937984704 }
         - { name: "BitWarden", mas_id: 1352778147 }
         - { name: "Cyberduck", mas_id: 409222199 }
+        - { name: "CrystalFetch", mas_id: 6454431289 }
         - { name: "Hogwasher", mas_id: 1000674035 }
         - { name: "LibreOffice", mas_id: 1630474372 }
         - { name: "NextDNS", mas_id: 1464122853 }
