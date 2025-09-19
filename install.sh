@@ -30,7 +30,7 @@ cat > macos_apps.yml <<EOF
   tasks:
     - name: Install Mac App Store apps
       community.general.mas:
-        name: "{{ item.name }}"
+        id: "{{ item.id }}"
         state: present
       with_items:
         - { name: "Xcode", mas_id: 497799835 }
