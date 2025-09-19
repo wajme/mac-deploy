@@ -1,6 +1,9 @@
 # mac-deploy-playbook
 These are the standard items I install on MacBook
 
+# Deploy Code
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/wajme/mac-deploy/install.sh)"
+
 # Software [MAS]
 - Ampehtamine, https://apps.apple.com/us/app/amphetamine/id937984704?mt=12
 - BitWarden, https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12
