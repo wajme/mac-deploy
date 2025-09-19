@@ -4,7 +4,7 @@ This script will setup will install the standard applicatons I use through Mac A
 A list of the software is identified below. 
 
 # Deploy Code
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/wajme/mac-deploy/install.sh)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/wajme/mac-deploy/refs/head/main/install.sh)"
 
 # Mac Apps [MAS]
 - Ampehtamine, https://apps.apple.com/us/app/amphetamine/id937984704
