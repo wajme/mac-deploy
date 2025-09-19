@@ -22,3 +22,4 @@ These are the standard items I install on MacBook
 - Libation, https://getlibation.com
 - VLC, https://www.videolan.org/vlc/
 - WireShark, https://www.wireshark.org
+- Sublime Text, https://www.sublimetext.com
