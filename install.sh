@@ -55,6 +55,8 @@ cat > macos_apps.yml <<EOF
         - vlc
         - sublime-text
         - wireshark-app
+        - raspberry-pi-imager
+        - balenaetcher
 EOF
 
 # --- Step 5: Execute the Ansible playbook ---
