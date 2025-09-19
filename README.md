@@ -10,7 +10,7 @@ A list of the software is identified below.
 - Ampehtamine, https://apps.apple.com/us/app/amphetamine/id937984704
 - BitWarden, https://apps.apple.com/us/app/bitwarden/id1352778147
 - Cyberduck, https://apps.apple.com/us/app/cyberduck/id409222199
-- CrystalFetch
+- CrystalFetch, https://apps.apple.com/us/app/crystalfetch-iso-downloader/id6454431289
 - Hogwasher, https://apps.apple.com/us/app/hogwasher/id1000674035
 - LibreOffice, https://apps.apple.com/us/app/libreoffice/id1630474372
 - NextDNS, https://apps.apple.com/us/app/nextdns/id1464122853
