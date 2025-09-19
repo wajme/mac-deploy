@@ -1,5 +1,4 @@
-
-#Software 
+# Software 
 Ampehtamine
 BitWarden
 Firefox
@@ -16,6 +15,6 @@ WireShark
 WireGuard
 xSearch
 
-#Safari Extensions
+# Safari Extensions
 Kagi
 Dark Reader
