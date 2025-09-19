@@ -34,17 +34,27 @@ cat > macos_apps.yml <<EOF
         state: present
       with_items:
         - { name: "Xcode", mas_id: 497799835 }
-        - { name: "Pages", mas_id: 409201541 }
+        - { name: "Ampehtamine", mas_id: 937984704 }
+        - { name: "BitWarden", mas_id: 1352778147 }
+        - { name: "Cyberduck", mas_id: 409222199 }
+        - { name: "Hogwasher", mas_id: 1000674035 }
+        - { name: "LibreOffice", mas_id: 1630474372 }
+        - { name: "NextDNS", mas_id: 1464122853 }
+        - { name: "UTM", mas_id: 1538878817 }
+        - { name: "WireGuard", mas_id: 1451685025 }
+        - { name: "Kagi", mas_id: 1622835804 }
+        - { name: "Dark Reader", mas_id: 1438243180 }
+        - { name: "xSearch", mas_id: 1579902068 }
 
     - name: Install third-party software (Homebrew Casks)
       community.general.homebrew_cask:
         name: "{{ item }}"
         state: present
       with_items:
-        - google-chrome
         - firefox
-        - visual-studio-code
         - vlc
+        - sublime-text
+        - wireshark-app
 EOF
 
 # --- Step 5: Execute the Ansible playbook ---
