@@ -6,7 +6,7 @@ A list of the software is identified below.
 # Deploy Code
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/wajme/mac-deploy/install.sh)"
 
-# Software [MAS]
+# Mac Apps [MAS]
 - Ampehtamine, https://apps.apple.com/us/app/amphetamine/id937984704
 - BitWarden, https://apps.apple.com/us/app/bitwarden/id1352778147
 - Cyberduck, https://apps.apple.com/us/app/cyberduck/id409222199
@@ -22,7 +22,7 @@ A list of the software is identified below.
 - Dark Reader, https://apps.apple.com/us/app/dark-reader-for-safari/id1438243180
 - xSearch, https://apps.apple.com/us/app/xsearch-for-safari/id1579902068
   
-# Software Manual Install
+# Mac Apps [Brew]
 - Firefox, https://www.firefox.com/en-US/
 - Libation, https://getlibation.com
 - VLC, https://www.videolan.org/vlc/
